@@ -1,0 +1,3 @@
+usdc address = 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48
+usdc polygon address proofofstake = 0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174
+usdc proxie = 0x0882477e7895bdc5cea7cb1552ed914ab157fe56
